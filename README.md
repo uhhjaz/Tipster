@@ -4,7 +4,7 @@
 
 Submitted by: **Jaz Gill**
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -12,7 +12,7 @@ The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-The following **optional** features are implemented:
+The following **optional** features are implemented: [Work in Progress]
 
 * [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
@@ -34,7 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No major challenges encountered while building the app.
+Working on implementing optionalfunctionality
+
 
 ## Credits
 
